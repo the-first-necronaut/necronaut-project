@@ -31,4 +31,32 @@ A critical distinction within the project framework is the difference between ce
 
 ## Layers of Autonomy
 
-The architecture defines three progressive layers of technical implementation[cite: 7, 8]:
+The architecture defines three progressive layers of technical implementation:
+1. **Nível 1 (Personal):** Individual management of data, self-hosted services, and hardware independence.
+2. **Nível 2 (Local):** Local area networks (LANs) servicing homes, schools, or communities independently of ISPs.
+3. **Nível 3 (Inter-Network):** Mesh routing and decentralized bridges connecting distinct local networks into a resilient web.
+
+---
+
+## Project Evaluation Criteria
+
+Before deploying or developing a system within the project scope, evaluate it against the primary design questions:
+
+> Does this project reduce external dependency? Can it be modified, reused, and clearly documented? Does it remain functional if parts of the external infrastructure disappear?
+
+### Mandatory Checkpoints
+
+* **Dependency Reduction:** Eliminates reliance on single-vendor platforms.
+* **Offline Functionality:** Remains useful without active internet routing.
+* **Reusability:** Runs on repurposed or low-spec hardware.
+* **Documentation:** Clear instructions enable non-specialists to deploy and maintain the setup.
+
+---
+
+## Glossary Highlights
+
+* **Necromancia Digital (Digital Necromancy):** The practice of recovering, adapting, and repurposing obsolete or abandoned technology, hardware, protocols, and knowledge.
+* **Nó (Node):** Any participating device (computer, router, phone, server) capable of processing, storing, or routing data within the network.
+* **Rede Morta (Dead Network):** Inactive or abandoned network infrastructure that holds architectural or functional value for resurrection.
+* **Self-hosting:** Operating services locally or on user-controlled infrastructure rather than third-party cloud providers.
+
