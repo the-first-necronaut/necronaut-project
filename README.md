@@ -22,7 +22,7 @@ A critical distinction within the project framework is the difference between ce
 
 | Attribute | Platform | Network (Necronaut Approach) |
 | :--- | :--- | :--- |
-| **Control** | Centralized entity dictates rules and access[cite: 5, 6, 8] | Distributed sovereignty across participating nodes |
+| **Control** | Centralized entity dictates rules and access | Distributed sovereignty across participating nodes |
 | **Infrastructure** | Single provider host | Self-hosted or community-operated nodes |
 | **Failure Mode** | Single point of failure | Fault-tolerant / Isolated local operation |
 | **Philosophy** | "Come use my system." | "Build your system and connect to others." |
